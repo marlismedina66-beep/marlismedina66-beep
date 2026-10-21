@@ -1,6 +1,5 @@
-<!-- ENCABEZADO CON TU NOMBRE -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=220&section=header&text=Marlis&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programadora%20en%20formación%20💖&descAlignY=60&descSize=22" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,50:ff69b4,100:ff1493&height=220&section=header&text=Marlis&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programadora%20en%20formación%20💖&descAlignY=60&descSize=22" width="100%"/>
 </h1>
 
 <!-- TEXTO ANIMADO -->
@@ -93,6 +92,6 @@
   <a href="mailto:tucorreo@ejemplo.com"><img src="https://img.shields.io/badge/Email-db7093?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,50:ff69b4,100:ffb6c1&height=120&section=footer" width="100%"/>
 
 <p align="center">💖 Gracias por visitar mi perfil 💖</p>
