@@ -41,23 +41,9 @@
 
 ## 📌 Mis proyectos
 
-<!-- Cambia "NOMBRE_REPO_1", "NOMBRE_REPO_2", etc. por los nombres exactos de tus repositorios -->
-<p align="center">
-  <a href="https://github.com/TU_USUARIO/NOMBRE_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_1&theme=default&title_color=ff69b4&icon_color=ff1493&text_color=6b2c4a&bg_color=fff0f5&border_color=ffb6c1" />
-  </a>
-  <a href="https://github.com/TU_USUARIO/NOMBRE_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_2&theme=default&title_color=ff69b4&icon_color=ff1493&text_color=6b2c4a&bg_color=fff0f5&border_color=ffb6c1" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/TU_USUARIO/NOMBRE_REPO_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_3&theme=default&title_color=ff69b4&icon_color=ff1493&text_color=6b2c4a&bg_color=fff0f5&border_color=ffb6c1" />
-  </a>
-  <a href="https://github.com/TU_USUARIO/NOMBRE_REPO_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_4&theme=default&title_color=ff69b4&icon_color=ff1493&text_color=6b2c4a&bg_color=fff0f5&border_color=ffb6c1" />
-  </a>
-</p>
+- 💖 [Nombre del proyecto 1](https://github.com/TU_USUARIO/NOMBRE_REPO_1): breve descripción de lo que hace
+- 🌸 [Nombre del proyecto 2](https://github.com/TU_USUARIO/NOMBRE_REPO_2): breve descripción de lo que hace
+- ✨ [Nombre del proyecto 3](https://github.com/TU_USUARIO/NOMBRE_REPO_3): breve descripción de lo que hace
 
 ---
 
